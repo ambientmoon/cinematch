@@ -1,0 +1,227 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genres": ["Drama", "Crime"],
+    "keywords": ["prison", "friendship", "hope", "injustice", "escape"],
+    "overview": "억울하게 수감된 은행원이 오랜 세월에 걸쳐 우정을 쌓고 자유를 되찾으려 한다.",
+    "director": "Frank Darabont",
+    "poster": "https://image.tmdb.org/t/p/w300/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "genres": ["Drama", "Crime"],
+    "keywords": ["mafia", "family", "power", "betrayal", "italy"],
+    "overview": "이탈리아계 마피아 가문의 권력 승계와 가족의 비극을 그린 대서사시.",
+    "director": "Francis Ford Coppola",
+    "poster": "https://image.tmdb.org/t/p/w300/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "keywords": ["nonlinear", "gangster", "dark comedy", "violence", "redemption"],
+    "overview": "로스앤젤레스 범죄 세계의 인물들이 얽히는 비선형 구성의 이야기.",
+    "director": "Quentin Tarantino",
+    "poster": "https://image.tmdb.org/t/p/w300/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "keywords": ["superhero", "batman", "joker", "chaos", "morality"],
+    "overview": "배트맨이 혼돈을 퍼뜨리는 조커와 고담시의 영혼을 두고 맞선다.",
+    "director": "Christopher Nolan",
+    "poster": "https://image.tmdb.org/t/p/w300/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "title": "Inception",
+    "year": 2010,
+    "genres": ["Action", "Science Fiction", "Thriller"],
+    "keywords": ["dream", "heist", "subconscious", "reality", "mind"],
+    "overview": "꿈속에 들어가 생각을 심는 도둑이 마지막 임무에 도전한다.",
+    "director": "Christopher Nolan",
+    "poster": "https://image.tmdb.org/t/p/w300/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "genres": ["Adventure", "Drama", "Science Fiction"],
+    "keywords": ["space", "time", "family", "survival", "wormhole"],
+    "overview": "멸망해 가는 지구를 구하기 위해 우주로 떠난 아버지의 여정.",
+    "director": "Christopher Nolan",
+    "poster": "https://image.tmdb.org/t/p/w300/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "genres": ["Action", "Science Fiction"],
+    "keywords": ["virtual reality", "dystopia", "chosen one", "machines", "rebellion"],
+    "overview": "평범한 프로그래머가 현실이 가상 세계임을 깨닫고 저항군에 합류한다.",
+    "director": "Lana Wachowski",
+    "poster": "https://image.tmdb.org/t/p/w300/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genres": ["Drama", "Romance", "Comedy"],
+    "keywords": ["life", "destiny", "history", "love", "innocence"],
+    "overview": "순수한 마음을 가진 한 남자가 미국 현대사의 한가운데를 통과한다.",
+    "director": "Robert Zemeckis",
+    "poster": "https://image.tmdb.org/t/p/w300/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg"
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "genres": ["Drama", "Thriller", "Comedy"],
+    "keywords": ["class", "family", "inequality", "deception", "korea"],
+    "overview": "가난한 가족이 부유한 집에 하나둘 스며들며 벌어지는 예측불허의 사건.",
+    "director": "Bong Joon-ho",
+    "poster": "https://image.tmdb.org/t/p/w300/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+  },
+  {
+    "title": "Spirited Away",
+    "year": 2001,
+    "genres": ["Animation", "Adventure", "Fantasy"],
+    "keywords": ["spirits", "coming of age", "magic", "japan", "courage"],
+    "overview": "신들의 세계에 갇힌 소녀가 부모를 구하기 위해 성장해 간다.",
+    "director": "Hayao Miyazaki",
+    "poster": "https://image.tmdb.org/t/p/w300/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
+  },
+  {
+    "title": "Whiplash",
+    "year": 2014,
+    "genres": ["Drama", "Music"],
+    "keywords": ["jazz", "ambition", "mentor", "obsession", "perfection"],
+    "overview": "최고의 드러머를 꿈꾸는 학생과 폭압적인 스승의 처절한 대결.",
+    "director": "Damien Chazelle",
+    "poster": "https://image.tmdb.org/t/p/w300/7fn624j5lj3xTme2SgiLCeuedmO.jpg"
+  },
+  {
+    "title": "La La Land",
+    "year": 2016,
+    "genres": ["Drama", "Romance", "Music", "Comedy"],
+    "keywords": ["jazz", "dreams", "love", "los angeles", "ambition"],
+    "overview": "재즈 피아니스트와 배우 지망생이 꿈과 사랑 사이에서 흔들린다.",
+    "director": "Damien Chazelle",
+    "poster": "https://image.tmdb.org/t/p/w300/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "genres": ["Drama", "Thriller"],
+    "keywords": ["identity", "consumerism", "rebellion", "twist", "masculinity"],
+    "overview": "불면증에 시달리던 회사원이 비밀스러운 격투 클럽에 빠져든다.",
+    "director": "David Fincher",
+    "poster": "https://image.tmdb.org/t/p/w300/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+  },
+  {
+    "title": "Se7en",
+    "year": 1995,
+    "genres": ["Crime", "Drama", "Thriller", "Mystery"],
+    "keywords": ["serial killer", "sin", "investigation", "dark", "detective"],
+    "overview": "일곱 가지 죄악을 모티프로 한 연쇄살인을 쫓는 두 형사.",
+    "director": "David Fincher",
+    "poster": "https://image.tmdb.org/t/p/w300/6yoghtyTpznpBik8EngEmJskVUO.jpg"
+  },
+  {
+    "title": "Gone Girl",
+    "year": 2014,
+    "genres": ["Mystery", "Thriller", "Drama"],
+    "keywords": ["marriage", "disappearance", "deception", "media", "twist"],
+    "overview": "아내가 사라진 뒤 남편이 의심받기 시작하며 드러나는 진실.",
+    "director": "David Fincher",
+    "poster": "https://image.tmdb.org/t/p/w300/ts996lKsxvjkO2yiYG0ht4qAicO.jpg"
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "genres": ["Drama", "Romance"],
+    "keywords": ["love", "disaster", "ship", "class", "tragedy"],
+    "overview": "침몰하는 호화 여객선 위에서 피어난 신분을 뛰어넘은 사랑.",
+    "director": "James Cameron",
+    "poster": "https://image.tmdb.org/t/p/w300/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  {
+    "title": "Avatar",
+    "year": 2009,
+    "genres": ["Action", "Adventure", "Science Fiction"],
+    "keywords": ["aliens", "nature", "war", "colonization", "planet"],
+    "overview": "외계 행성 판도라에서 인간과 원주민 사이에 선 한 병사의 선택.",
+    "director": "James Cameron",
+    "poster": "https://image.tmdb.org/t/p/w300/kyeqWdyUXW608qlYkRqosgbbJyK.jpg"
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "genres": ["Crime", "Drama", "Thriller"],
+    "keywords": ["mental illness", "society", "transformation", "gotham", "isolation"],
+    "overview": "소외된 코미디언이 광기에 빠져 악당 조커로 변해 가는 과정.",
+    "director": "Todd Phillips",
+    "poster": "https://image.tmdb.org/t/p/w300/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genres": ["Adventure", "Fantasy", "Action"],
+    "keywords": ["quest", "ring", "friendship", "magic", "epic"],
+    "overview": "절대반지를 파괴하기 위해 모인 원정대의 위대한 여정이 시작된다.",
+    "director": "Peter Jackson",
+    "poster": "https://image.tmdb.org/t/p/w300/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "genres": ["Action", "Adventure", "Drama"],
+    "keywords": ["rome", "revenge", "betrayal", "arena", "honor"],
+    "overview": "배신당한 로마 장군이 검투사가 되어 복수를 향해 나아간다.",
+    "director": "Ridley Scott",
+    "poster": "https://image.tmdb.org/t/p/w300/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "keywords": ["toys", "friendship", "jealousy", "childhood", "adventure"],
+    "overview": "주인의 사랑을 두고 경쟁하던 장난감들이 진정한 우정을 배운다.",
+    "director": "John Lasseter",
+    "poster": "https://image.tmdb.org/t/p/w300/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "genres": ["Animation", "Adventure", "Family", "Music"],
+    "keywords": ["family", "memory", "music", "mexico", "afterlife"],
+    "overview": "음악을 사랑하는 소년이 죽은 자들의 세계에서 가족의 비밀을 찾는다.",
+    "director": "Lee Unkrich",
+    "poster": "https://image.tmdb.org/t/p/w300/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
+  },
+  {
+    "title": "Your Name",
+    "year": 2016,
+    "genres": ["Animation", "Romance", "Fantasy", "Drama"],
+    "keywords": ["body swap", "love", "fate", "japan", "time"],
+    "overview": "서로 몸이 뒤바뀌는 두 소년 소녀가 운명처럼 이어진다.",
+    "director": "Makoto Shinkai",
+    "poster": "https://image.tmdb.org/t/p/w300/q719jXXEzOoYaps6babgKnONONX.jpg"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genres": ["Action", "Adventure", "Science Fiction"],
+    "keywords": ["post-apocalypse", "chase", "survival", "desert", "rebellion"],
+    "overview": "황폐한 세계에서 폭주하는 추격전과 자유를 향한 탈주.",
+    "director": "George Miller",
+    "poster": "https://image.tmdb.org/t/p/w300/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg"
+  },
+  {
+    "title": "Get Out",
+    "year": 2017,
+    "genres": ["Horror", "Mystery", "Thriller"],
+    "keywords": ["race", "twist", "psychological", "family", "control"],
+    "overview": "여자친구의 집을 방문한 흑인 남자가 마주하는 섬뜩한 비밀.",
+    "director": "Jordan Peele",
+    "poster": "https://image.tmdb.org/t/p/w300/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg"
+  }
+]

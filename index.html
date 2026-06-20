@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CineMatch — 영화 취향 추천</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="hero">
+    <p class="eyebrow">FIND YOUR NEXT FAVORITE</p>
+    <h1 class="logo">CINE<span>MATCH</span></h1>
+    <p class="tagline">좋아하는 영화 한 편을 고르면, 닮은 영화 세 편을 찾아드려요.</p>
+
+    <div class="search" id="search">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="영화 제목을 입력하세요 (예: Inception)"
+        autocomplete="off"
+        aria-label="영화 제목 검색">
+      <ul class="suggestions" id="suggestions" role="listbox"></ul>
+    </div>
+    <p class="hint" id="hint">한글 줄거리로 표시되지만, 검색은 영어 제목으로 입력해 주세요.</p>
+  </header>
+
+  <main>
+    <!-- 선택한 영화 -->
+    <section class="selected" id="selectedSection" hidden>
+      <h2 class="section-label">선택한 영화</h2>
+      <div class="selected-card" id="selectedCard"></div>
+    </section>
+
+    <!-- 추천 결과 -->
+    <section class="recommendations" id="recSection" hidden>
+      <h2 class="section-label">이 영화와 닮은 작품 <span class="count">3</span></h2>
+      <div class="rec-grid" id="recGrid"></div>
+      <button class="reset" id="resetBtn">다른 영화로 다시 찾기</button>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>CineMatch · 25편의 영화 데이터에서 장르·키워드 유사도로 추천합니다.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
