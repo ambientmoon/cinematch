@@ -42,7 +42,7 @@
 
 ## 데모
 
-[데모 보기](https://username.github.io/cinematch) ← *배포 후 실제 주소로 교체하세요*
+https://ambientmoon.github.io/cinematch/
 
 ## 아직 안 되는 것 / 한계 ★
 
